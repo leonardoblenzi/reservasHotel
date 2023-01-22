@@ -54,7 +54,6 @@ public class Reservation {
         sb.append("Room: ");
         sb.append(roomNumber);
         sb.append(", check-in: ");
-        sb.append(checkIn);
         sb.append(sdf.format(checkIn));
         sb.append(", check-out: ");
         sb.append(sdf.format(checkOut));
