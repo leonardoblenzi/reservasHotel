@@ -1,0 +1,4 @@
+Descrição dos branchs:
+primeiraSolução(muito ruim) - implementando a logica toda no codigo principal.
+segundaSolucao(ruim) - tirando parte da logica do codigo principal e delegando à classe responsável(Reservation) retornando um String.
+terceiraSolucao(boa) - Usando try catch, criando exceção personalizada.
